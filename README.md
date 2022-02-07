@@ -1,2 +1,5 @@
-# RelayWeb
-중계 채팅방 및 커뮤니티 웹 사이트
+# RelayWeb API
+Platform to serve RelayWeb information to community tools
+
+
+
