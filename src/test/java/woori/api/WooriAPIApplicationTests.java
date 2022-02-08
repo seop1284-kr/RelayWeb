@@ -1,10 +1,10 @@
-package relay.community;
+package woori.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RelayWebAPIApplicationTests {
+class WooriAPIApplicationTests {
 
 	@Test
 	void contextLoads() {

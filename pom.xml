@@ -8,11 +8,11 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>relay.community</groupId>
-	<artifactId>RelayWeb</artifactId>
+	<groupId>woori.api</groupId>
+	<artifactId>woori</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RelayWeb</name>
-	<description>relay and community web site</description>
+	<name>wooriapi</name>
+	<description>woori website api</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
