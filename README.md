@@ -1,5 +1,5 @@
-# RelayWeb API
-Platform to serve RelayWeb information to community tools
+# Woori API
+Platform to serve Woori web information to community tools
 
 
 
